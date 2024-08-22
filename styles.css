@@ -1,0 +1,40 @@
+body {
+    color:rgb(223,26,223);
+    background:rgb(164,164,194);
+    margin: 0px;
+    font-family: "exo 2", sans-serif;
+
+}
+
+header {
+
+    border-bottom: solid 2px rgb(235,192,255);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb (235,192,255);
+
+
+}
+
+
+section{
+
+    background: rgb(164,164,194);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex ;
+    justify-content: center;
+
+}
+
+.chamada-texto{
+
+    margin-right:5%;
+}
+
+h1{
+
+    font-size:40px;
+}
+
+p{
